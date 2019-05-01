@@ -1,0 +1,992 @@
+[
+  {
+    "continente": "ÁFRICA",
+    "pais": "ANGOLA",
+    "capital": "LUANDA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "ARGELIA",
+    "capital": "ARGEL"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "BENIN",
+    "capital": "PORTO-NOVO"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "BOTSUANA",
+    "capital": "GABERONES"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "BURKINA FASO",
+    "capital": "UAGADUGÚ"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "BURUNDI",
+    "capital": "BUYUMBURA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "CABO VERDE",
+    "capital": "PRAIA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "CAMERÚN",
+    "capital": "YAUNDÉ"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "CHAD",
+    "capital": "YAMENA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "COMORAS",
+    "capital": "MORONI"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "COSTA DE MARFIL",
+    "capital": "YAMUSUKRO, ABIYÁN"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "EGIPTO",
+    "capital": "EL CAIRO"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "ERITREA",
+    "capital": "ASMARA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "ETIOPÍA",
+    "capital": "ADÍS ABEBA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "GABÓN",
+    "capital": "LIBREVILLE"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "GAMBIA",
+    "capital": "BANJUL"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "GHANA",
+    "capital": "ACCRA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "GUINEA",
+    "capital": "CONAKRY"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "GUINEA ECUATORIAL",
+    "capital": "MALABO"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "GUINEA-BISSAU",
+    "capital": "BISSAU"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "KENIA",
+    "capital": "NAIROBI"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "LESOTO",
+    "capital": "MASERU"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "LIBERIA",
+    "capital": "MONROVIA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "LIBIA",
+    "capital": "TRÍPOLI"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "MADAGASCAR",
+    "capital": "ANTANANARIVO"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "MALAUI",
+    "capital": "LILONGÜE"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "MALI",
+    "capital": "BAMAKO"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "MARRUECOS",
+    "capital": "RABAT"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "MAURICIO",
+    "capital": "PORT LOUIS"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "MAURITANIA",
+    "capital": "NUAKCHOT"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "MOZAMBIQUE",
+    "capital": "MAPUTO"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "NAMIBIA",
+    "capital": "WINDHOEK"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "NÍGER",
+    "capital": "NIAMEY"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "NIGERIA",
+    "capital": "ABUYA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "REPÚBLICA CENTROAFRICANA",
+    "capital": "BANGUI"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "REPÚBLICA DEL CONGO",
+    "capital": "BRAZZAVILLE"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "REPÚBLICA DEMOCRÁTICA DEL CONGO",
+    "capital": "KINSHASA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "REPÚBLICA SAHARAUI",
+    "capital": "EL AAIÚN"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "RUANDA",
+    "capital": "KIGALI"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "SANTO TOMÉ Y PRÍNCIPE",
+    "capital": "SANTO TOMÉ"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "SENEGAL",
+    "capital": "DAKAR"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "SEYCHELLES",
+    "capital": "VICTORIA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "SIERRA LEONA",
+    "capital": "FREETOWN"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "SOMALIA",
+    "capital": "MOGADISCIO"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "SUAZILANDIA",
+    "capital": "MBABANE"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "SUDÁFRICA",
+    "capital": "PRETORIA, CIUDAD DEL CABO, BLOEMFONTEIN"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "SUDÁN DEL NORTE",
+    "capital": "JARTUM"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "SUDÁN DEL SUR",
+    "capital": "YUBA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "TANZANIA",
+    "capital": "DODOMA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "TOGO",
+    "capital": "LOMÉ"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "TÚNEZ",
+    "capital": "TÚNEZ"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "UGANDA",
+    "capital": "KAMPALA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "YIBUTI",
+    "capital": "YIBUTI"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "ZAMBIA",
+    "capital": "LUSAKA"
+  },
+  {
+    "continente": "ÁFRICA",
+    "pais": "ZIMBABUE",
+    "capital": "HARARE"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "ANTIGUA Y BARBUDA",
+    "capital": "SAINT JOHN'S"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "ARGENTINA",
+    "capital": "BUENOS AIRES"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "BAHAMAS",
+    "capital": "NASSAU"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "BARBADOS",
+    "capital": "BRIDGETOWN"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "BELICE",
+    "capital": "BELMOPÁN"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "BOLIVIA",
+    "capital": "SUCRE, LA PAZ"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "BRASIL",
+    "capital": "BRASILIA"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "CANADÁ",
+    "capital": "OTTAWA"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "CHILE",
+    "capital": "SANTIAGO DE CHILE"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "COLOMBIA",
+    "capital": "BOGOTÁ"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "COSTA RICA",
+    "capital": "SAN JOSÉ"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "CUBA",
+    "capital": "LA HABANA"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "DOMINICA",
+    "capital": "ROSEAU"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "ECUADOR",
+    "capital": "QUITO"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "EL SALVADOR",
+    "capital": "SAN SALVADOR"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "ESTADOS UNIDOS",
+    "capital": "WASHINGTON D. C."
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "GRANADA",
+    "capital": "SAINT GEORGE'S"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "GUATEMALA",
+    "capital": "CIUDAD DE GUATEMALA"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "GUYANA",
+    "capital": "GEORGETOWN"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "HAITÍ",
+    "capital": "PUERTO PRÍNCIPE"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "HONDURAS",
+    "capital": "TEGUCIGALPA"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "JAMAICA",
+    "capital": "KINGSTON"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "MÉXICO",
+    "capital": "MÉXICO D. F."
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "NICARAGUA",
+    "capital": "MANAGUA"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "PANAMÁ",
+    "capital": "CIUDAD DE PANAMÁ"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "PARAGUAY",
+    "capital": "ASUNCIÓN"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "PERÚ",
+    "capital": "LIMA"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "PUERTO RICO",
+    "capital": "SAN JUAN"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "REPÚBLICA DOMINICANA",
+    "capital": "SANTO DOMINGO"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "SAN CRISTÓBAL Y NIEVES",
+    "capital": "BASSETERRE"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "SAN VICENTE Y LAS GRANADINAS",
+    "capital": "KINGSTOWN"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "SANTA LUCÍA",
+    "capital": "CASTRIES"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "SURINAM",
+    "capital": "PARAMARIBO"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "TRINIDAD Y TOBAGO",
+    "capital": "PUERTO ESPAÑA"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "URUGUAY",
+    "capital": "MONTEVIDEO"
+  },
+  {
+    "continente": "AMÉRICA",
+    "pais": "VENEZUELA",
+    "capital": "CARACAS"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "AFGANISTÁN",
+    "capital": "KABUL"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "ARABIA SAUDITA",
+    "capital": "RIAD"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "BANGLADÉS",
+    "capital": "DACA"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "BARÉIN",
+    "capital": "MANAMÁ"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "BRUNEI",
+    "capital": "BANDAR SERI BEGAWAN"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "BUTÁN",
+    "capital": "TIMBU"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "CAMBOYA",
+    "capital": "PNON PEHN"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "CATAR",
+    "capital": "DOHA"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "CHINA",
+    "capital": "PEKÍN"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "CHIPRE",
+    "capital": "NICOSIA"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "COREA DEL NORTE",
+    "capital": "PYONGYANG"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "COREA DEL SUR",
+    "capital": "SEÚL"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "EMIRATOS ARABES UNIDOS",
+    "capital": "ABU DABI"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "FILIPINAS",
+    "capital": "MANILA"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "INDIA",
+    "capital": "NUEVA DELHI"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "INDONESIA",
+    "capital": "YAKARTA"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "IRÁN",
+    "capital": "TEHERÁN"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "IRAQ",
+    "capital": "BAGDAD"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "ISRAEL",
+    "capital": "JERUSALÉN"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "JAPÓN",
+    "capital": "TOKIO"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "JORDANIA",
+    "capital": "AMMÁN"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "KAZAJISTÁN",
+    "capital": "ASTANÁ"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "KIRGUISTÁN",
+    "capital": "BISKEK"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "KUWAIT",
+    "capital": "CIUDAD DE KUWAIT"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "LAOS",
+    "capital": "VIENTIÁN"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "LÍBANO",
+    "capital": "BEIRUT"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "MALASIA",
+    "capital": "KUALA LUMPUR"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "MALDIVAS",
+    "capital": "MALÉ"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "MONGOLIA",
+    "capital": "ULAN BATOR"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "MYANMAR (BIRMANIA)",
+    "capital": "NAYPYIDAW"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "NEPAL",
+    "capital": "KATMANDÚ"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "OMÁN",
+    "capital": "MASCATE"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "PAKISTÁN",
+    "capital": "ISLAMABAD"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "PALESTINA",
+    "capital": "RAMALA"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "SINGAPUR",
+    "capital": "SINGAPUR"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "SIRIA",
+    "capital": "DAMASCO"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "SRI LANKA",
+    "capital": "COLOMBO"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "TAILANDIA",
+    "capital": "BANGKOK"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "TAIWAN",
+    "capital": "TAIPEH"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "TAYIKISTÁN",
+    "capital": "DUSAMBÉ"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "TIMOR ORIENTAL",
+    "capital": "DILI"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "TURKMENISTÁN",
+    "capital": "ASJABAD"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "TURQUÍA",
+    "capital": "ANKARA"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "UZBEKISTÁN",
+    "capital": "TASHKENT"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "VIETNAM",
+    "capital": "HANOI"
+  },
+  {
+    "continente": "ASIA",
+    "pais": "YEMEN",
+    "capital": "SANÁ"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "ALBANIA",
+    "capital": "TIRANA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "ALEMANIA",
+    "capital": "BERLÍN"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "ANDORRA",
+    "capital": "ANDORRA LA VIEJA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "ARMENIA",
+    "capital": "EREVÁN"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "AUSTRIA",
+    "capital": "VIENA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "AZERBAIYÁN",
+    "capital": "BAKÚ"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "BÉLGICA",
+    "capital": "BRUSELAS"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "BIELORRUSIA",
+    "capital": "MINSK"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "BOSNIA Y HERZEGOVINA",
+    "capital": "SARAJEVO"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "BULGARIA",
+    "capital": "SOFÍA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "CROACIA",
+    "capital": "ZAGREB"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "DINAMARCA",
+    "capital": "COPENHAGUE"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "ESLOVAQUIA",
+    "capital": "BRATISLAVA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "ESLOVENIA",
+    "capital": "LUBLIJANA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "ESPAÑA",
+    "capital": "MADRID"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "ESTONIA",
+    "capital": "TALLÍN"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "FINLANDIA",
+    "capital": "HELSINKI"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "FRANCIA",
+    "capital": "PARÍS"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "GEORGIA",
+    "capital": "TIFLIS"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "GRECIA",
+    "capital": "ATENAS"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "HUNGRÍA",
+    "capital": "BUDAPEST"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "IRLANDA",
+    "capital": "DUBLÍN"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "ISLANDIA",
+    "capital": "REIKIAVIK"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "ITALIA",
+    "capital": "ROMA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "LETONIA",
+    "capital": "RIGA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "LIECHTENSTEIN",
+    "capital": "VADUZ"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "LITUANIA",
+    "capital": "VILNA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "LUXEMBURGO",
+    "capital": "LUXEMBURGO"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "MALTA",
+    "capital": "LA VALETA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "MOLDAVIA",
+    "capital": "CHISINAU"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "MÓNACO",
+    "capital": "MÓNACO"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "MONTENEGRO",
+    "capital": "PODGORICA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "NORUEGA",
+    "capital": "OSLO"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "paisES BAJOS",
+    "capital": "AMSTERDAM"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "POLONIA",
+    "capital": "VARSOVIA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "PORTUGAL",
+    "capital": "LISBOA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "REINO UNIDO",
+    "capital": "LONDRES"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "REPÚBLICA CHECA",
+    "capital": "PRAGA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "REPÚBLICA DE MACEDONIA",
+    "capital": "SKOPJE"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "RUMANIA",
+    "capital": "BUCAREST"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "RUSIA",
+    "capital": "MOSCÚ"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "SAN MARINO",
+    "capital": "CIUDAD DE SAN MARINO"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "SERBIA",
+    "capital": "BELGRADO"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "SUECIA",
+    "capital": "ESTOCOLMO"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "SUIZA",
+    "capital": "BERNA"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "UCRANIA",
+    "capital": "KIEV"
+  },
+  {
+    "continente": "EUROPA",
+    "pais": "VATICANO",
+    "capital": "CIUDAD DEL VATICANO"
+  },
+  {
+    "continente": "OCEANÍA",
+    "pais": "AUSTRALIA",
+    "capital": "CANBERRA"
+  },
+  {
+    "continente": "OCEANÍA",
+    "pais": "FIYI",
+    "capital": "SUVA"
+  },
+  {
+    "continente": "OCEANÍA",
+    "pais": "ISLAS MARSHALL",
+    "capital": "MAJURO"
+  },
+  {
+    "continente": "OCEANÍA",
+    "pais": "ISLAS SALOMÓN",
+    "capital": "HONIARA"
+  },
+  {
+    "continente": "OCEANÍA",
+    "pais": "KIRIBATI",
+    "capital": "TARAWA"
+  },
+  {
+    "continente": "OCEANÍA",
+    "pais": "MICRONESIA",
+    "capital": "PALIKIR"
+  },
+  {
+    "continente": "OCEANÍA",
+    "pais": "NAURU",
+    "capital": "YAREN"
+  },
+  {
+    "continente": "OCEANÍA",
+    "pais": "NUEVA ZELANDA",
+    "capital": "WELLINGTON"
+  },
+  {
+    "continente": "OCEANÍA",
+    "pais": "PALAOS",
+    "capital": "MELEKEOK"
+  },
+  {
+    "continente": "OCEANÍA",
+    "pais": "PAPÚA NUEVA GUINEA",
+    "capital": "PORT MORESBY"
+  },
+  {
+    "continente": "OCEANÍA",
+    "pais": "SAMOA",
+    "capital": "APIA"
+  },
+  {
+    "continente": "OCEANÍA",
+    "pais": "TONGA",
+    "capital": "NUKU'ALOFA"
+  },
+  {
+    "continente": "OCEANÍA",
+    "pais": "TUVALU",
+    "capital": "FUNAFUTI"
+  },
+  {
+    "continente": "OCEANÍA",
+    "pais": "VANUATU",
+    "capital": "PORT VILA"
+  }
+]

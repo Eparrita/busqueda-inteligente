@@ -1,0 +1,17 @@
+{
+  "name": "formulario-de-busqueda-inteligente",
+  "homepage": "https://eparrita.github.io/busqueda-inteligente",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "mkdir build && cp -r ./css ./build/ && cp -r ./js ./build/ && cp -r ./data ./build/ && cp -r index.html ./build/ && gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
